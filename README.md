@@ -1,6 +1,6 @@
 # Does the scatter of the radial acceleration relation depend on galaxy properties?
 
-Analysis code for a PHYS 474 conference paper. Using the SPARC database, the code reproduces the
+Analysis code for PHYS 474 conference paper. Using the SPARC database, the code reproduces the
 radial acceleration relation (RAR), then tests whether each galaxy's mean residual about the relation
 correlates with surface brightness, gas fraction, size, baryonic mass or morphological type, and
 estimates how large a trend the sample could have detected.
